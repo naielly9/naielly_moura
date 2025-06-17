@@ -1,7 +1,7 @@
 ### Prazer! Eu sou o Naielly Moura ou Nay se preferir.
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosedsmagalhaes&show_icons=true&theme=radical&locale=pt-br" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=naielly9&show_icons=true&theme=radical&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naielly9&layout=compact&langs_count=8&card_width=200&theme=radical&locale=pt-br" />
