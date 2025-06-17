@@ -9,7 +9,7 @@
  
 <h2>Tecnologias que eu mais utilizo</h2>
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,css,js,ts&theme=dark" />
 </div>
  
 <h2>Entre em contato comigo</h2>
